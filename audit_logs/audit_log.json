@@ -1,0 +1,5 @@
+{"file": "data/encrypted/ibe_encrypted.bin", "user": "alice@example.com", "access_granted": true, "integrity_check": "Verified", "timestamp": "2025-04-08T17:29:35.924844"}
+{"file": "data/encrypted/ibe_encrypted.bin", "user": "alice@example.com", "access_granted": true, "integrity_check": "Verified", "timestamp": "2025-04-08T17:43:22.699778"}
+{"file": "data/encrypted/ibe_encrypted_ui.bin", "user": "alice@example.com", "access_granted": true, "integrity_check": "Verified", "timestamp": "2025-04-08T18:05:10.992856"}
+{"file": "data/encrypted/ibe_encrypted_ui.bin", "user": "alice@example.com", "access_granted": true, "integrity_check": "Verified", "timestamp": "2025-04-08T18:05:42.944133"}
+{"file": "data/encrypted/ibe_encrypted_ui.bin", "user": "alice@example.com", "access_granted": true, "integrity_check": "Verified", "timestamp": "2025-04-08T22:54:19.858885"}

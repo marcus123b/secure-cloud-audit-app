@@ -1,0 +1,4 @@
+Patient Name: [REDACTED]
+Patient ID: [REDACTED]
+Date of Birth: [REDACTED]
+Diagnosis: Severe Cough and Fever

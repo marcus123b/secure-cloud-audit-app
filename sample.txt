@@ -1,0 +1,4 @@
+Patient Name: John Doe
+Patient ID: 123456
+Date of Birth: 01/01/1990
+Diagnosis: Severe Cough and Fever

@@ -1,0 +1,12 @@
+sample.txt
+``>
+(**Be sure it’s `.txt`, not `sample.txt.txt`** — turn on file extensions if needed)
+
+---
+
+### 🔹 3. Paste This Content into the File:
+```plaintext
+Patient Name: John Doe
+Patient ID: 123456
+Date of Birth: 01/01/1990
+Diagnosis: Severe Cough and Fever

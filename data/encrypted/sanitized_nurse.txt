@@ -1,0 +1,3 @@
+Patient Name: John Doe
+Patient ID: 123456
+[Other information hidden for privacy]
